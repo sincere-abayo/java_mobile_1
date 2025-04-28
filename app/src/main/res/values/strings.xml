@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="screen_name">Home</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send">Send</string>
+    <string name="open_form_explicit_intent">open explicit form</string>
+    <string name="open_google_implicit_intent">Implicit Intent  (Open Google )</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="save">Save</string>
+    <string name="view_saved_data">View Saved Data</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+
+</resources>
